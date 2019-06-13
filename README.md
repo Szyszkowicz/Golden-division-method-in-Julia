@@ -9,7 +9,7 @@
 * [Futures](#futures)
 * [How to use?](#how-to-use)
 * [Example of use](#example-of-use)
-* [Contact/ Website](#contact/-website)
+* [Contact Website](#contact-website)
 
 
 ## General info
@@ -41,5 +41,5 @@ tol = put-your-accuracy-here`
 
 ![Example of use](./Example.png)
 
-## Contact/ Website
+## Contact Website
 Created by https://eyeoftheengineer.eu/ - feel free to contact me!
