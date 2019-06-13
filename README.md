@@ -39,7 +39,7 @@ tol = put-your-accuracy-here`
 
 ## Example of use
 
-![Example of use](./example.png)
+![Example of use](./Example.png)
 
 ## Contact/ Website
 Created by https://eyeoftheengineer.eu/ - feel free to contact me!
