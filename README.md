@@ -6,6 +6,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Futures](#futures)
 
 ## General info
 This project is simple implementation of golden division method write in Julia.
