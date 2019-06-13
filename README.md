@@ -18,3 +18,9 @@ Project is created with:
 	
 ## Setup
 To run this project, put it loccally in Julia IDE, or use Juliabox online.
+
+## Futures
+* Searching for a minimum function
+* Adjustment of the accuracy tolerance of the result is possible
+* Ability to change search ranges
+* The possibility of giving any function of one variable
