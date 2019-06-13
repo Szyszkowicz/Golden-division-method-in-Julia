@@ -8,6 +8,7 @@
 * [Setup](#setup)
 * [Futures](#futures)
 * [How to use?](#how-to-use)
+* [Contact/ website](#contact/-website)
 
 ## General info
 This project is simple implementation of golden division method write in Julia.
